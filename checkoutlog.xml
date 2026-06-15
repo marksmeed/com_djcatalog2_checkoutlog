@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="component" method="upgrade">
+    <name>COM_CHECKOUTLOG</name>
+    <author>Custom</author>
+    <creationDate>2026-06-15</creationDate>
+    <version>1.0.0</version>
+    <description>COM_CHECKOUTLOG_XML_DESCRIPTION</description>
+
+    <namespace path="src">BarlowsWoodyard\Component\CheckoutLog</namespace>
+
+    <administration>
+        <menu link="option=com_checkoutlog" img="class:list-2">COM_CHECKOUTLOG</menu>
+        <files folder="admin">
+            <folder>services</folder>
+            <folder>src</folder>
+            <folder>tmpl</folder>
+        </files>
+        <languages folder="admin">
+            <language tag="en-GB">language/en-GB/com_checkoutlog.ini</language>
+            <language tag="en-GB">language/en-GB/com_checkoutlog.sys.ini</language>
+        </languages>
+    </administration>
+</extension>

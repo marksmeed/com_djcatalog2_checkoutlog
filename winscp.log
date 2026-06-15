@@ -1,0 +1,167 @@
+. 2026-06-15 22:13:36.598 --------------------------------------------------------------------------
+. 2026-06-15 22:13:36.600 WinSCP Version 6.5.6 (Build 16502 2026-03-25) (OS 10.0.26200 – Windows 11 Pro)
+. 2026-06-15 22:13:36.600 Configuration: HKCU\Software\Martin Prikryl\WinSCP 2\
+. 2026-06-15 22:13:36.600 Log level: Normal
+. 2026-06-15 22:13:36.600 Local account: MARKS_LAPTOP\mntsm
+. 2026-06-15 22:13:36.600 Working directory: C:\Users\mntsm\github\com_djcatalog2_checkoutlog
+. 2026-06-15 22:13:36.600 Process ID: 40200
+. 2026-06-15 22:13:36.623 Ancestor processes: WinSCP, powershell, claude, claude, explorer, ...
+. 2026-06-15 22:13:36.623 Command-line: "C:\Users\mntsm\AppData\Local\Programs\WinSCP\WinSCP.exe" /console=6.5.6 /consoleinstance=_18620_340 "/script=C:\Users\mntsm\github\com_djcatalog2_checkoutlog\deploy.txt" "/log=C:\Users\mntsm\github\com_djcatalog2_checkoutlog\winscp.log" 
+. 2026-06-15 22:13:36.624 Time zone: Current: GMT+1, Standard: GMT+0 (GMT Standard Time), DST: GMT+1 (GMT Summer Time), DST Start: 29/03/2026, DST End: 25/10/2026
+. 2026-06-15 22:13:36.624 Login time: 15 June 2026 22:13:36
+. 2026-06-15 22:13:36.624 --------------------------------------------------------------------------
+. 2026-06-15 22:13:36.624 Script: Retrospectively logging previous script records:
+> 2026-06-15 22:13:36.624 Script: open ftps://claude%40barlowswoodyard.co.uk:***@ftp.barlowswoodyard.co.uk -explicit -hostkey=*
+. 2026-06-15 22:13:36.624 --------------------------------------------------------------------------
+. 2026-06-15 22:13:36.624 Session name: claude@barlowswoodyard.co.uk@ftp.barlowswoodyard.co.uk (Ad-Hoc site)
+. 2026-06-15 22:13:36.624 Host name: ftp.barlowswoodyard.co.uk (Port: 21)
+. 2026-06-15 22:13:36.624 User name: claude@barlowswoodyard.co.uk (Password: Yes, Key file: No, Passphrase: No)
+. 2026-06-15 22:13:36.624 Transfer Protocol: FTP
+. 2026-06-15 22:13:36.624 Ping type: Dummy, Ping interval: 30 sec; Timeout: 15 sec
+. 2026-06-15 22:13:36.624 Disable Nagle: No
+. 2026-06-15 22:13:36.624 Proxy: None
+. 2026-06-15 22:13:36.624 Send buffer: 262144
+. 2026-06-15 22:13:36.624 UTF: Auto
+. 2026-06-15 22:13:36.624 FTPS: Explicit TLS/SSL [Client certificate: No]
+. 2026-06-15 22:13:36.624 FTP: Passive: Yes [Force IP: Auto]; MLSD: Auto [List all: Auto]; HOST: Auto
+. 2026-06-15 22:13:36.624 Session reuse: Yes
+. 2026-06-15 22:13:36.624 TLS/SSL versions: TLSv1.2-TLSv1.3
+. 2026-06-15 22:13:36.624 Local directory: default, Remote directory: home, Update: Yes, Cache: Yes
+. 2026-06-15 22:13:36.624 Cache directory changes: Yes, Permanent: Yes
+. 2026-06-15 22:13:36.624 Recycle bin: Delete to: No, Overwritten to: No, Bin path: 
+. 2026-06-15 22:13:36.624 Timezone offset: 0h 0m
+. 2026-06-15 22:13:36.624 --------------------------------------------------------------------------
+< 2026-06-15 22:13:36.647 Script: Connecting to ftp.barlowswoodyard.co.uk ...
+. 2026-06-15 22:13:36.647 Connecting to ftp.barlowswoodyard.co.uk ...
+. 2026-06-15 22:13:36.672 Connection failed.
+< 2026-06-15 22:13:36.674 Script: Connection failed.
+< 2026-06-15 22:13:36.674 Connection failed.
+. 2026-06-15 22:14:40.157 --------------------------------------------------------------------------
+. 2026-06-15 22:14:40.159 WinSCP Version 6.5.6 (Build 16502 2026-03-25) (OS 10.0.26200 – Windows 11 Pro)
+. 2026-06-15 22:14:40.159 Configuration: HKCU\Software\Martin Prikryl\WinSCP 2\
+. 2026-06-15 22:14:40.159 Log level: Normal
+. 2026-06-15 22:14:40.159 Local account: MARKS_LAPTOP\mntsm
+. 2026-06-15 22:14:40.159 Working directory: C:\Users\mntsm\github\com_djcatalog2_checkoutlog
+. 2026-06-15 22:14:40.159 Process ID: 31740
+. 2026-06-15 22:14:40.186 Ancestor processes: WinSCP, powershell, claude, claude, explorer, ...
+. 2026-06-15 22:14:40.186 Command-line: "C:\Users\mntsm\AppData\Local\Programs\WinSCP\WinSCP.exe" /console=6.5.6 /consoleinstance=_26796_772 "/script=C:\Users\mntsm\github\com_djcatalog2_checkoutlog\deploy.txt" "/log=C:\Users\mntsm\github\com_djcatalog2_checkoutlog\winscp.log" 
+. 2026-06-15 22:14:40.186 Time zone: Current: GMT+1, Standard: GMT+0 (GMT Standard Time), DST: GMT+1 (GMT Summer Time), DST Start: 29/03/2026, DST End: 25/10/2026
+. 2026-06-15 22:14:40.186 Login time: 15 June 2026 22:14:40
+. 2026-06-15 22:14:40.186 --------------------------------------------------------------------------
+. 2026-06-15 22:14:40.186 Script: Retrospectively logging previous script records:
+> 2026-06-15 22:14:40.186 Script: open ftps://claude%40barlowswoodyard.co.uk:***@barlowswoodyard.co.uk -explicit -hostkey=*
+. 2026-06-15 22:14:40.186 --------------------------------------------------------------------------
+. 2026-06-15 22:14:40.186 Session name: claude@barlowswoodyard.co.uk@barlowswoodyard.co.uk (Ad-Hoc site)
+. 2026-06-15 22:14:40.186 Host name: barlowswoodyard.co.uk (Port: 21)
+. 2026-06-15 22:14:40.186 User name: claude@barlowswoodyard.co.uk (Password: Yes, Key file: No, Passphrase: No)
+. 2026-06-15 22:14:40.186 Transfer Protocol: FTP
+. 2026-06-15 22:14:40.186 Ping type: Dummy, Ping interval: 30 sec; Timeout: 15 sec
+. 2026-06-15 22:14:40.186 Disable Nagle: No
+. 2026-06-15 22:14:40.186 Proxy: None
+. 2026-06-15 22:14:40.186 Send buffer: 262144
+. 2026-06-15 22:14:40.186 UTF: Auto
+. 2026-06-15 22:14:40.186 FTPS: Explicit TLS/SSL [Client certificate: No]
+. 2026-06-15 22:14:40.186 FTP: Passive: Yes [Force IP: Auto]; MLSD: Auto [List all: Auto]; HOST: Auto
+. 2026-06-15 22:14:40.186 Session reuse: Yes
+. 2026-06-15 22:14:40.186 TLS/SSL versions: TLSv1.2-TLSv1.3
+. 2026-06-15 22:14:40.186 Local directory: default, Remote directory: home, Update: Yes, Cache: Yes
+. 2026-06-15 22:14:40.186 Cache directory changes: Yes, Permanent: Yes
+. 2026-06-15 22:14:40.186 Recycle bin: Delete to: No, Overwritten to: No, Bin path: 
+. 2026-06-15 22:14:40.186 Timezone offset: 0h 0m
+. 2026-06-15 22:14:40.186 --------------------------------------------------------------------------
+< 2026-06-15 22:14:40.205 Script: Connecting to barlowswoodyard.co.uk ...
+. 2026-06-15 22:14:40.205 Connecting to barlowswoodyard.co.uk ...
+. 2026-06-15 22:14:40.225 Connected with barlowswoodyard.co.uk, negotiating TLS connection...
+< 2026-06-15 22:14:40.237 220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+< 2026-06-15 22:14:40.237 220-You are user number 1 of 50 allowed.
+< 2026-06-15 22:14:40.237 220-Local time is now 22:14. Server port: 21.
+< 2026-06-15 22:14:40.237 220-This is a private system - No anonymous login
+< 2026-06-15 22:14:40.237 220-IPv6 connections are also welcome on this server.
+< 2026-06-15 22:14:40.237 220 You will be disconnected after 15 minutes of inactivity.
+> 2026-06-15 22:14:40.237 AUTH TLS
+< 2026-06-15 22:14:40.251 234 AUTH TLS OK.
+. 2026-06-15 22:14:40.272 Verifying certificate for "" with fingerprint 47:26:ca:70:d8:d7:9d:c6:ea:00:5c:96:63:43:7b:d5:88:e8:8f:8a:af:8f:2b:92:17:62:d5:55:4d:76:5f:a8 and 20 failures
+< 2026-06-15 22:14:40.272 Script: WARNING! Giving up security and accepting any certificate as configured!
+* 2026-06-15 22:14:40.272 WARNING! Giving up security and accepting any certificate as configured!
+. 2026-06-15 22:14:40.273 Using TLSv1.3, cipher TLSv1.3: TLS_AES_256_GCM_SHA384, 2048 bit RSA, TLS_AES_256_GCM_SHA384         TLSv1.3 Kx=any      Au=any   Enc=AESGCM(256)            Mac=AEAD
+< 2026-06-15 22:14:40.273 Script: TLS connection established. Waiting for welcome message...
+. 2026-06-15 22:14:40.273 TLS connection established. Waiting for welcome message...
+> 2026-06-15 22:14:40.273 USER claude@barlowswoodyard.co.uk
+< 2026-06-15 22:14:40.293 331 User claude@barlowswoodyard.co.uk OK. Password required
+> 2026-06-15 22:14:40.293 PASS ****************
+< 2026-06-15 22:14:40.351 230 OK. Current restricted directory is /
+> 2026-06-15 22:14:40.351 SYST
+< 2026-06-15 22:14:40.363 215 UNIX Type: L8
+> 2026-06-15 22:14:40.363 FEAT
+< 2026-06-15 22:14:40.375 211-Extensions supported:
+< 2026-06-15 22:14:40.376  UTF8
+< 2026-06-15 22:14:40.376  EPRT
+< 2026-06-15 22:14:40.376  IDLE
+< 2026-06-15 22:14:40.376  MDTM
+< 2026-06-15 22:14:40.376  SIZE
+< 2026-06-15 22:14:40.376  MFMT
+< 2026-06-15 22:14:40.376  REST STREAM
+< 2026-06-15 22:14:40.376  MLST type*;size*;sizd*;modify*;UNIX.mode*;UNIX.uid*;UNIX.gid*;unique*;
+< 2026-06-15 22:14:40.376  MLSD
+< 2026-06-15 22:14:40.376  PRET
+< 2026-06-15 22:14:40.376  AUTH TLS
+< 2026-06-15 22:14:40.376  PBSZ
+< 2026-06-15 22:14:40.376  PROT
+< 2026-06-15 22:14:40.376  TVFS
+< 2026-06-15 22:14:40.376  ESTA
+< 2026-06-15 22:14:40.376  PASV
+< 2026-06-15 22:14:40.376  EPSV
+< 2026-06-15 22:14:40.376  ESTP
+< 2026-06-15 22:14:40.376 211 End.
+> 2026-06-15 22:14:40.376 OPTS UTF8 ON
+< 2026-06-15 22:14:40.387 504 Unknown command
+> 2026-06-15 22:14:40.387 PBSZ 0
+< 2026-06-15 22:14:40.400 200 PBSZ=0
+> 2026-06-15 22:14:40.400 PROT P
+< 2026-06-15 22:14:40.412 200 Data protection level set to "private"
+< 2026-06-15 22:14:40.412 Script: Connected
+. 2026-06-15 22:14:40.412 Connected
+. 2026-06-15 22:14:40.412 --------------------------------------------------------------------------
+. 2026-06-15 22:14:40.412 Using FTP protocol.
+. 2026-06-15 22:14:40.412 Doing startup conversation with host.
+< 2026-06-15 22:14:40.412 Script: Starting the session...
+> 2026-06-15 22:14:40.412 PWD
+< 2026-06-15 22:14:40.423 257 "/" is your current location
+. 2026-06-15 22:14:40.423 Getting current directory name.
+. 2026-06-15 22:14:40.423 Startup conversation with host finished.
+< 2026-06-15 22:14:40.424 Script: Session started.
+< 2026-06-15 22:14:40.424 Script: Active session: [1] claude@barlowswoodyard.co.uk@barlowswoodyard.co.uk
+> 2026-06-15 22:14:40.424 Script: put db-query.php /public_html/staging/db-query.php
+. 2026-06-15 22:14:40.424 Copying 1 files/directories to remote directory "/public_html/staging/" - total size: 944
+. 2026-06-15 22:14:40.424   PrTime: Yes; PrRO: No; Rght: rw-r--r--; PrR: No (No); FnCs: N; RIC: 0001; Resume: S (102400); CalcS: No; Mask: db-query.php
+. 2026-06-15 22:14:40.424   TM: B; ClAr: No; RemEOF: No; RemBOM: No; CPS: 0; NewerOnly: No; EncryptNewFiles: Yes; ExcludeHiddenFiles: No; ExcludeEmptyDirectories: No; InclM: ; ResumeL: 0
+. 2026-06-15 22:14:40.424   AscM: *.*html; *.htm; *.txt; *.php; *.php3; *.cgi; *.c; *.cpp; *.h; *.pas; *.bas; *.tex; *.pl; *.js; .htaccess; *.xtml; *.css; *.cfg; *.ini; *.sh; *.xml
+. 2026-06-15 22:14:40.424 File: 'db-query.php' [2026-06-15T18:17:57.387Z] [944]
+. 2026-06-15 22:14:40.425 Copying "db-query.php" to remote directory started.
+. 2026-06-15 22:14:40.425 Binary transfer mode selected.
+. 2026-06-15 22:14:40.425 Starting upload of C:\Users\mntsm\github\com_djcatalog2_checkoutlog\db-query.php
+> 2026-06-15 22:14:40.426 CWD /public_html/staging
+< 2026-06-15 22:14:40.437 250 OK. Current directory is /public_html/staging
+> 2026-06-15 22:14:40.437 PWD
+< 2026-06-15 22:14:40.447 257 "/public_html/staging" is your current location
+> 2026-06-15 22:14:40.447 TYPE I
+< 2026-06-15 22:14:40.460 200 TYPE is now 8-bit binary
+> 2026-06-15 22:14:40.460 PASV
+< 2026-06-15 22:14:40.472 227 Entering Passive Mode (88,150,140,232,251,189)
+> 2026-06-15 22:14:40.473 STOR db-query.php
+. 2026-06-15 22:14:40.473 Connecting to 88.150.140.232:64445 ...
+< 2026-06-15 22:14:40.495 150 Accepted data connection
+. 2026-06-15 22:14:40.509 Session ID reused
+. 2026-06-15 22:14:40.509 Using TLSv1.3, cipher TLSv1.3: TLS_AES_256_GCM_SHA384, 2048 bit RSA, TLS_AES_256_GCM_SHA384         TLSv1.3 Kx=any      Au=any   Enc=AESGCM(256)            Mac=AEAD
+. 2026-06-15 22:14:40.510 TLS connection established
+. 2026-06-15 22:14:40.571 Data connection closed
+< 2026-06-15 22:14:40.571 226-File successfully transferred
+< 2026-06-15 22:14:40.571 226 0.052 seconds (measured here), 17.81 Kbytes per second
+> 2026-06-15 22:14:40.571 MFMT 20260615181757 db-query.php
+< 2026-06-15 22:14:40.582 213 UTIME OK
+. 2026-06-15 22:14:40.582 Upload successful
+. 2026-06-15 22:14:40.582 Transfer done: 'db-query.php' => '/public_html/staging/db-query.php' [944]
+. 2026-06-15 22:14:40.582 Copying finished: Transferred: 944, Elapsed: 0:00:00, CPS: 5,974/s
+> 2026-06-15 22:14:40.582 Script: exit
+. 2026-06-15 22:14:40.583 Script: Exit code: 0
+. 2026-06-15 22:14:40.585 Disconnected from server
